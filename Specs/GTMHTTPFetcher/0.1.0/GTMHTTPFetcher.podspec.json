@@ -1,6 +1,6 @@
 {
   "name": "GTMHTTPFetcher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": "Google",
   "license": {
     "type": "Apache License, Version 2.0",
@@ -9,7 +9,7 @@
   "homepage": "https://code.google.com/p/gtm-http-fetcher/",
   "source": {
     "svn": "http://gtm-http-fetcher.googlecode.com/svn/trunk/",
-    "revision": "138"
+    "revision": "141"
   },
   "summary": "Google Toolbox for Mac - HTTP Fetcher",
   "description": "                    GTM HTTP Fetcher makes it easy for Cocoa applications to perform http\n                    operations. The fetcher is implemented as a wrapper on NSURLConnection,\n                    so its behavior is asynchronous and uses operating-system settings on\n                    iOS and Mac OS X.\n\n                    This version can be used with iOS ≥ 5.0 or OS X ≥ 10.7.\n                    To target earlier versions of iOS or OS X, use\n\n                      pod 'GTMHTTPFetcher', '~> 0.0.1'\n",
