@@ -314,7 +314,7 @@
       },
       "source_files": "Source/Services/YouTubeAnalytics/Generated/*.{h,m}",
       "exclude_files": "Source/Services/YouTubeAnalytics/Generated/GTLYouTubeAnalytics_Sources.m"
-    }
+    },
     {
       "name": "Gmail",
       "dependencies": {
